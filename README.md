@@ -1,7 +1,8 @@
 # cifar-10
 This repo is for the classification of images in cifar-10 dataset.  
 The dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class.   
-There are 50000 training images and 10000 test images.  
+There are 50000 training images and 10000 test images.
+Dataset reference: https://www.cs.toronto.edu/~kriz/cifar.html. 
 
 Building the Neural Network :
 Various models is been tried starting from a simple single layer , followed by complex layers containing Convolution layer and Maxpooling layers.  
